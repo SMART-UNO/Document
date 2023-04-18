@@ -18,6 +18,7 @@ This repository contains useful materials used for UNO project.
     - Random Player (number-first)
     - Random Player (purely random)
 3. Algorithms
-    - DQN
-    - Deep-SARSA
-    - TD(0) version algorithms
+    - MC: Fiorella
+    - DQN: Savannah
+    - Deep-SARSA: Xiaoyang
+    - REINFORCE: Jules
